@@ -1,4 +1,4 @@
-# Spam-Classifier
+# Spam-Ham-Classifier
 
 A general purpose spam classifier implemented using the naive Bayes probability approach.
 This was created as a proof of concept spam filter for my undergrad college course.
